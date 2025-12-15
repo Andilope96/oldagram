@@ -11,7 +11,7 @@ header{
     justify-content: space-between;
     align-items: center;
     height: 67px;
-    padding: 15px;
+    /*padding: 15px;*/
     margin-bottom: 2px;
 }
 
@@ -26,17 +26,19 @@ main{
 #logo{
     width: 127px;
     height: 33px;
+    margin: 15px;
 }
 
 #profil-picture{
     border-radius: 50%;
     height: 34px;
     width: 34px;
+    margin: 15px;
 }
 
 .user-info{
     background-color: #FFFFFF;
-    padding: 15px;
+    padding: 15px 10px;
     display:flex;
     align-items: center;
     
